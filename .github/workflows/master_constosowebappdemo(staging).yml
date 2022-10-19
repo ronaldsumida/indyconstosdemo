@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'constosowebappdemo'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9ADE1F044DC5423B8E93D5044C685131 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04086FD6EEFF4AA8AAC427E5931617EB }}
